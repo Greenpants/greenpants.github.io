@@ -1,6 +1,7 @@
 name: Greenpants Photos
 markdown: kramdown
 pygments: true
+highlighter: pygments
 permalink: /:year/:month/:title/
 url: rgroenbroek.nl
 author:
