@@ -1,0 +1,8 @@
+name: Greenpants Photos
+markdown: redcarpet
+pygments: true
+permalink: /:year/:month/:title/
+url: rgroenbroek.nl
+author:
+    name: Rick Groenbroek
+    twitter: #
